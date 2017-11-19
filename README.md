@@ -17,5 +17,9 @@ git push -u origin master
 
 git push
 
+<<<<<<< HEAD
 
 xxxxxxxxxxxxxxxx
+=======
+somebody modify it!
+>>>>>>> 8e32e194204d59c4e09819d55574f4fe1424016a
