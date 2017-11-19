@@ -1,7 +1,8 @@
 #备注
 2017年11月19日，我在学习git指令
-
+<<<<<<< HEAD
 Dao pian ji x1
+=======
 Dao pian ji
 
 git config --global user.name "xiaoxiaohanhanhan"
@@ -16,3 +17,4 @@ git remote -v
 git push -u origin master
 
 git push
+>>>>>>> 5a522eede330837d5450ae3cc0f94b7f87b9f22b
