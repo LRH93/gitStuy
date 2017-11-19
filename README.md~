@@ -1,4 +1,4 @@
-##备注
+## 备注
 2017年11月19日，我在学习git指令
 
 git config --global user.name "xiaoxiaohanhanhan"
@@ -22,4 +22,4 @@ git push -u origin master
 
 git push
 
-##mahua.jser.me
+## mahua.jser.me
